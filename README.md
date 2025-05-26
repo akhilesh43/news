@@ -26,3 +26,20 @@ lib/
 ├── news_screen.dart
 ├── news_service.dart
 
+
+# List of third-party packages
+
+1. http
+Purpose: To make HTTP requests to the NewsAPI.
+ It's a simple and reliable package for REST API calls.
+ NewsService class to fetch articles.
+2. provider: State management.
+ It allows efficient, reactive state updates without boilerplate. Used to manage bookmarks globally across the app.
+ BookmarkProvider, Consumer<BookmarkProvider>.
+3.intl: Date formatting.
+ To format article publish dates (e.g., 25 May, 2025).
+ formatDate(DateTime date) function in your UI.
+4.shared_preferences
+ To persist user data (e.g., bookmarked articles).
+Allows saving small data locally (e.g., bookmarks) even after app restarts.
+ Integrate this if you want bookmarks to be saved permanently
