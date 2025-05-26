@@ -42,4 +42,8 @@ Purpose: To make HTTP requests to the NewsAPI.
 4.shared_preferences
  To persist user data (e.g., bookmarked articles).
 Allows saving small data locally (e.g., bookmarks) even after app restarts.
- Integrate this if you want bookmarks to be saved permanently
+ Integrate this if you want bookmarks to be saved permanently.
+5.webview_flutter: To display full news articles inside the app.
+ Keeps users inside your app when reading full articles instead of launching a browser.
+
+
