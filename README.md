@@ -19,4 +19,4 @@ This app is designed to provide a clean and user-friendly interface for reading 
 
 ⚡ Fast & Simple UI – Smooth and responsive interface.
 
-
+https://github.com/akhilesh43/news/blob/4c64fe1120fed9d78002ecb6fa58d41568ee6d68/WhatsApp%20Image%202025-05-26%20at%2014.17.52_716a177a.jpg
